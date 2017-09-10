@@ -1,0 +1,3 @@
+rootProject.name = 'harmonious'
+
+include ':app'
